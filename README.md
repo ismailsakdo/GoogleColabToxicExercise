@@ -1,2 +1,2 @@
-# gc_toxic
+# Google Colab Toxicity Exercise
 Google Colab Toxicity
